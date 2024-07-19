@@ -1,0 +1,62 @@
+body {
+    background-color: cadetblue;
+}
+
+.father {
+    color: black;
+    display: flex;
+    gap: 40px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.box1 {
+    background-color: aliceblue;
+    width: 215px;
+    height: 225px;
+    padding: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+.mother {
+    color: black;
+    display: flex;
+    gap: 40px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.box2 {
+    background-color: aliceblue;
+    width: 215px;
+    height: 215px;
+padding: 20px;
+}
+
+.box3 {
+    background-color: aliceblue;
+    width: 275px;
+}
+
+.mother2 {
+    color: black;
+    display: flex;
+}
+
+.Boy {
+    color: black;
+    display: flex;
+    gap: 40px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+
+.box4 {
+    background-color: aliceblue;
+    width: 313px;
+    height: 100px;
+    padding: 20px;
+}
